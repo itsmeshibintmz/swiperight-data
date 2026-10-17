@@ -1,8 +1,8 @@
 {
-  "version": "1.4.12",
-  "tag": "v1.4.12",
-  "name": "v1.4.12 — Nav bar margins actually work",
-  "notes": "Fixed the margin bug — padding was incorrectly placed inside the Row child instead of outside, so it added to the pill width rather than creating screen-edge margins. Now 56px margin on each side is enforced correctly.",
-  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.12/SwipeRight-v1.4.12-mac.dmg",
-  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.12/SwipeRight-v1.4.12-android.apk"
+  "version": "1.4.13",
+  "tag": "v1.4.13",
+  "name": "v1.4.13 — Nav bar margins fixed for real",
+  "notes": "Removed IntrinsicWidth complexity. Pill now directly fills the padded width (36px margin each side) with items spaced evenly — simple and guaranteed to work.",
+  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.13/SwipeRight-v1.4.13-mac.dmg",
+  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.13/SwipeRight-v1.4.13-android.apk"
 }
