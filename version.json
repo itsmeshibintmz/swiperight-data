@@ -1,8 +1,8 @@
 {
-  "version": "1.4.10",
-  "tag": "v1.4.10",
-  "name": "v1.4.10 — Nav bar + updater fixes",
-  "notes": "Nav bar is back at the bottom with 32px side margins. Android in-app updater now correctly opens the system APK installer instead of silently failing.",
-  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.10/SwipeRight-v1.4.10-mac.dmg",
-  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.10/SwipeRight-v1.4.10-android.apk"
+  "version": "1.4.11",
+  "tag": "v1.4.11",
+  "name": "v1.4.11 — Nav bar side margin tweak",
+  "notes": "Increased nav bar side margins to 56px for a cleaner floating pill look.",
+  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.11/SwipeRight-v1.4.11-mac.dmg",
+  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.11/SwipeRight-v1.4.11-android.apk"
 }
