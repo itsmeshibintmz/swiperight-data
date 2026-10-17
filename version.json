@@ -1,8 +1,8 @@
 {
-  "version": "1.4.7",
-  "tag": "v1.4.7",
-  "name": "v1.4.7 — Nav bar pill fix",
-  "notes": "Nav bar pill now shrink-wraps to the 3 tab items instead of stretching edge-to-edge. Release asset filenames are now descriptive on GitHub.",
-  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.7/SwipeRight-v1.4.7-mac.dmg",
-  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.7/SwipeRight-v1.4.7-android.apk"
+  "version": "1.4.8",
+  "tag": "v1.4.8",
+  "name": "v1.4.8 — Working updater",
+  "notes": "Updater now fetches version info from a public endpoint — checking for updates finally works on both macOS and Android.",
+  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.8/SwipeRight-v1.4.8-mac.dmg",
+  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.8/SwipeRight-v1.4.8-android.apk"
 }
