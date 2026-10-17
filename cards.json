@@ -1,0 +1,5 @@
+{
+  "_comment": "Reserved for future remote card database updates. Currently the app uses its bundled cards_database.dart.",
+  "version": null,
+  "cards": []
+}
