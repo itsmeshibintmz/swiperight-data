@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "tag": "v1.5.0",
-  "name": "v1.5.0 — 103 cards: Axis Magnus, ICICI Emeralde, HSBC TravelOne, BOB Etihad & more",
-  "notes": "Major database expansion: +16 new cards (87→103 total). New banks: Equitas Small Finance Bank. New cards: Axis Magnus, Axis Privilege, Axis Neo, IndianOil Axis Bank, ICICI Emeralde Private Metal, HDFC Marriott Bonvoy, HSBC TravelOne, IndusInd Tiger, BOBCARD Etihad Guest Premium & Standard, SBI Card PULSE, Equitas Selfe, Equitas PowerMiles, Kotak Cashback+, IDFC FIRST Mayura Metal, SC EaseMyTrip. All reward data verified from official bank pages as of October 2026.",
-  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.5.0/SwipeRight-v1.5.0-mac.dmg",
-  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.5.0/SwipeRight-v1.5.0-android.apk"
+  "version": "1.5.1",
+  "tag": "v1.5.1",
+  "name": "v1.5.1 — 109 cards: CRED, PhonePe, Fibe & Slice added",
+  "notes": "6 new fintech/payment-app credit cards: Fibe Axis (LTF), slice UPI CC (LTF), CRED IndusInd RuPay (₹499/yr), PhonePe HDFC Ultimo (₹999), PhonePe SBI SELECT BLACK (₹1,499), PhonePe SBI PURPLE (₹499). All RuPay UPI-enabled. Total: 109 cards.",
+  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.5.1/SwipeRight-v1.5.1-mac.dmg",
+  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.5.1/SwipeRight-v1.5.1-android.apk"
 }
