@@ -8,8 +8,8 @@
 
 | Platform | Version | Link |
 |---|---|---|
-| macOS (Apple Silicon) | v1.4.14 | [SwipeRight-v1.4.14-mac.dmg](https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.14/SwipeRight-v1.4.14-mac.dmg) |
-| Android (APK) | v1.4.14 | [SwipeRight-v1.4.14-android.apk](https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.14/SwipeRight-v1.4.14-android.apk) |
+| macOS (Apple Silicon) | v1.5.0 | [SwipeRight-v1.5.0-mac.dmg](https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.5.0/SwipeRight-v1.5.0-mac.dmg) |
+| Android (APK) | v1.5.0 | [SwipeRight-v1.5.0-android.apk](https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.5.0/SwipeRight-v1.5.0-android.apk) |
 | iOS / Windows | Planned | — |
 
 > **macOS:** Right-click → Open the first time (app is unsigned — bypasses Gatekeeper warning).  
@@ -23,10 +23,10 @@
 
 - **Tracker** — Pick spend type + merchant, enter amount → every card in your wallet ranked by ₹ returned
 - **My Cards** — Track statement/due dates, interest-free days, billing cycle per card
-- **Library** — Browse 87 Indian credit cards, filter by bank/network/benefit, best cards per spend type
+- **Library** — Browse 103 Indian credit cards, filter by bank/network/benefit, best cards per spend type
 - **Glass UI** — Liquid glass floating nav bar, frosted-glass sheets; blur intensity adjustable in Settings
 - **In-app updater** — Checks this repo's `version.json` on launch and notifies when a new version is available
-- **87 cards · 22 issuers** — HDFC, Axis, ICICI, SBI, IDFC FIRST, YES Bank, HSBC, RBL, Amex, AU Small Finance, Standard Chartered, OneCard, Kiwi, Jupiter, Kotak, IndusInd, Bank of Baroda, Scapia, and more. Includes Paytm SBI co-branded, Google Pay Flex (SBI + Axis), Axis SuperMoney
+- **103 cards · 23 issuers** — HDFC, Axis, ICICI, SBI, IDFC FIRST, YES Bank, HSBC, RBL, Amex, AU Small Finance, Standard Chartered, OneCard, Kiwi, Jupiter, Kotak, IndusInd, Bank of Baroda, Equitas Small Finance Bank, Scapia, and more. Includes Axis Magnus, ICICI Emeralde Private Metal, HDFC Marriott Bonvoy, HSBC TravelOne, BOB Etihad, IDFC Mayura Metal
 - **No account, no backend** — everything stored locally; wallet backup/restore as plain JSON
 
 ---
@@ -44,8 +44,8 @@ This is the **public data + releases** repo for SwipeRight. The app source code 
 
 ```json
 {
-  "version": "1.4.14",
-  "tag": "v1.4.14",
+  "version": "1.5.0",
+  "tag": "v1.5.0",
   "name": "Release title",
   "notes": "What changed in this version",
   "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/vX.Y.Z/SwipeRight-vX.Y.Z-mac.dmg",
@@ -59,9 +59,9 @@ This is the **public data + releases** repo for SwipeRight. The app source code 
 
 | Version | What's in it |
 |---|---|
+| **v1.5.0** | +16 cards (87→103): Axis Magnus, Privilege, Neo, IndianOil Axis; ICICI Emeralde Private Metal; HDFC Marriott Bonvoy; HSBC TravelOne; IndusInd Tiger; BOB Etihad (Premium + Standard); SBI Pulse; Equitas Selfe + PowerMiles; Kotak Cashback+; IDFC FIRST Mayura Metal; SC EaseMyTrip |
 | **v1.4.14** | 5 new cards: Paytm SBI, Paytm SBI SELECT, Google Pay Flex (SBI + Axis, Oct 2026 rates), Axis SuperMoney — 87 total |
 | **v1.4.13** | Nav bar pill with proper 36px side margins — guaranteed by placing padding directly on the pill |
-| **v1.4.10** | Nav bar anchored to bottom; Android in-app installer fixed (system APK installer) |
 
 [Full release history →](https://github.com/itsmeshibintmz/swiperight-data/releases)
 
