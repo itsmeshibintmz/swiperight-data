@@ -1,8 +1,8 @@
 {
-  "version": "1.4.9",
-  "tag": "v1.4.9",
-  "name": "v1.4.9 — Nav bar pill spacing fix",
-  "notes": "Nav bar pill now has proper horizontal breathing room (40px on each side) so it floats cleanly above the screen edges instead of stretching almost edge-to-edge.",
-  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.9/SwipeRight-v1.4.9-mac.dmg",
-  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.9/SwipeRight-v1.4.9-android.apk"
+  "version": "1.4.10",
+  "tag": "v1.4.10",
+  "name": "v1.4.10 — Nav bar + updater fixes",
+  "notes": "Nav bar is back at the bottom with 32px side margins. Android in-app updater now correctly opens the system APK installer instead of silently failing.",
+  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.10/SwipeRight-v1.4.10-mac.dmg",
+  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.10/SwipeRight-v1.4.10-android.apk"
 }
