@@ -26,4 +26,15 @@ Download links point to release assets attached to this repo's GitHub Releases.
 
 ---
 
+## Latest Release
+
+**v1.4.13** — [Download →](https://github.com/itsmeshibintmz/swiperight-data/releases/latest)
+
+| Platform | File |
+|---|---|
+| macOS (Apple Silicon) | `SwipeRight-v1.4.13-mac.dmg` |
+| Android | `SwipeRight-v1.4.13-android.apk` |
+
+---
+
 *SwipeRight is a personal project — an Indian credit card reward optimizer for macOS and Android.*
