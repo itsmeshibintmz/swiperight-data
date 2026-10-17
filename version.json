@@ -1,8 +1,8 @@
 {
-  "version": "1.4.13",
-  "tag": "v1.4.13",
-  "name": "v1.4.13 — Nav bar margins fixed for real",
-  "notes": "Removed IntrinsicWidth complexity. Pill now directly fills the padded width (36px margin each side) with items spaced evenly — simple and guaranteed to work.",
-  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.13/SwipeRight-v1.4.13-mac.dmg",
-  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.13/SwipeRight-v1.4.13-android.apk"
+  "version": "1.4.14",
+  "tag": "v1.4.14",
+  "name": "v1.4.14 — New cards: Paytm SBI, Google Pay Flex, SuperMoney",
+  "notes": "Added 5 new cards: Paytm SBI Credit Card, Paytm SBI SELECT, Google Pay Flex (SBI & Axis variants, with Oct 2026 reward update), and Axis Bank SuperMoney. Total card database now at 87 cards.",
+  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.14/SwipeRight-v1.4.14-mac.dmg",
+  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.4.14/SwipeRight-v1.4.14-android.apk"
 }
