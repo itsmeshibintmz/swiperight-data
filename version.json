@@ -1,8 +1,9 @@
 {
-  "version": "1.6.0",
-  "tag": "v1.6.0",
-  "name": "v1.6.0 — Pro Features, Collapsible Sections, 5 New Cards",
-  "notes": "SwipeRight Pro launched (free now, paywall later): live card offers + bill payment comparison. Collapsible sections in My Cards & Library. Charges (forex markup, fuel waiver, cash advance) in card detail. 5 new cards (Samsung Axis Signature, SBI Cashback, SBI BPCL Octane, Tata Neu Infinity HDFC, Tata Neu Plus HDFC). 114 cards total.",
-  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.6.0/SwipeRight-v1.6.0-mac.dmg",
-  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.6.0/SwipeRight-v1.6.0-android.apk"
+  "version": "1.7.0",
+  "tag": "v1.7.0",
+  "name": "v1.7.0 — Card database corrections + 1 new card (114 total)",
+  "notes": "Removed fake HSBC Patanjali card. HDFC MoneyBack+ updated for May 2026 devaluation. Amex MRCC Rewards Multiplier discontinued notice. New: Amazon Pay Kotak Business card. iOS IPA now included in every release.",
+  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.7.0/SwipeRight-v1.7.0-mac.dmg",
+  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.7.0/SwipeRight-v1.7.0-android.apk",
+  "ios_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.7.0/SwipeRight-v1.7.0-ios.ipa"
 }
