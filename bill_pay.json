@@ -1,0 +1,90 @@
+{
+  "last_updated": "2026-10-21",
+  "note": "Manually curated. Sources: CRED, GPay, PhonePe offer pages, bank apps, r/CreditCardsIndia. Update when platforms change their reward structures.",
+  "platforms": [
+    {
+      "id": "cred",
+      "name": "CRED",
+      "emoji": "💎",
+      "return_percent": "0.5%–2%",
+      "reward_type": "coins",
+      "note": "Earns CRED Coins; avg redemption ~₹0.25–₹0.50/coin. Occasional flat cashback offers for specific cards.",
+      "source_url": "https://cred.club"
+    },
+    {
+      "id": "gpay",
+      "name": "Google Pay",
+      "emoji": "🔵",
+      "return_percent": "0%–1%",
+      "reward_type": "cashback",
+      "note": "Occasional scratch cards; no guaranteed reward. 5% cashback on Axis Ace card for utility bill payments.",
+      "source_url": "https://pay.google.com"
+    },
+    {
+      "id": "phonepe",
+      "name": "PhonePe",
+      "emoji": "🟣",
+      "return_percent": "0%–0.5%",
+      "reward_type": "cashback",
+      "note": "Rare cashback via PhonePe Rewards. Generally not competitive for bill payments.",
+      "source_url": "https://www.phonepe.com"
+    },
+    {
+      "id": "bank_app",
+      "name": "Bank's own app",
+      "emoji": "🏦",
+      "return_percent": "0%",
+      "reward_type": "none",
+      "note": "Direct payment via net banking or bank's app earns 0 additional reward on top of card points.",
+      "source_url": null
+    },
+    {
+      "id": "bhim",
+      "name": "BHIM / UPI",
+      "emoji": "🇮🇳",
+      "return_percent": "0%",
+      "reward_type": "none",
+      "note": "Standard UPI bill pay — no reward unless your credit card has a UPI cashback offer.",
+      "source_url": "https://www.bhimupi.org.in"
+    }
+  ],
+  "card_advice": [
+    {
+      "card_id": "hdfc_amazon_pay",
+      "recommendations": [
+        { "platform_id": "cred", "return_label": "CRED Coins (~0.5%)", "note": "Best option — CRED often has Amazon HDFC-specific offers.", "rank": 1 },
+        { "platform_id": "bank_app", "return_label": "0% extra", "note": "Direct via HDFC SmartPay — still earns 1% Amazon Pay cashback on the card.", "rank": 2 }
+      ]
+    },
+    {
+      "card_id": "sbi_cashback",
+      "recommendations": [
+        { "platform_id": "bank_app", "return_label": "5% online cashback on bill payment", "note": "SBI Cashback card earns 5% on online payments — paying via SBI YONO or net banking counts as online.", "rank": 1 },
+        { "platform_id": "cred", "return_label": "5% card + CRED Coins", "note": "CRED bill payment counts as online — stacks card's 5% + CRED Coins.", "rank": 1 },
+        { "platform_id": "gpay", "return_label": "5% card + occasional GPay scratch", "note": "GPay bill payment counts as online for SBI Cashback 5% category.", "rank": 1 }
+      ]
+    },
+    {
+      "card_id": "axis_ace",
+      "recommendations": [
+        { "platform_id": "gpay", "return_label": "5% cashback via Google Pay (Android)", "note": "Axis Ace earns 5% on all utility bill payments via Google Pay — pay your own card's bill here if it qualifies as a utility. Works for electricity, broadband, etc.", "rank": 1 },
+        { "platform_id": "cred", "return_label": "1.5% base + CRED Coins", "note": "Direct bill payment via CRED — earns base 1.5% on Ace.", "rank": 2 },
+        { "platform_id": "bank_app", "return_label": "1.5% base", "note": "Axis app payment earns base 1.5%.", "rank": 3 }
+      ]
+    },
+    {
+      "card_id": "hdfc_millennia",
+      "recommendations": [
+        { "platform_id": "cred", "return_label": "5% CashPoints (bill platform)", "note": "CRED counts as an online/app payment — HDFC Millennia earns 5% CashPoints on selected online portals including CRED.", "rank": 1 },
+        { "platform_id": "gpay", "return_label": "5% CashPoints via PayZapp / 1% base via GPay", "note": "GPay = 1% base. Prefer CRED or PayZapp for 5%.", "rank": 2 }
+      ]
+    },
+    {
+      "card_id": "sbi_bpcl_octane",
+      "recommendations": [
+        { "platform_id": "bank_app", "return_label": "Base 1 RP/₹100 (0.25%)", "note": "Bill payment earns standard base rate only. No accelerated category for bill pay.", "rank": 1 },
+        { "platform_id": "cred", "return_label": "0.25% base + CRED Coins", "note": "Stacks base card points with CRED Coins.", "rank": 1 }
+      ]
+    }
+  ]
+}

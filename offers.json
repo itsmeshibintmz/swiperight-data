@@ -1,0 +1,59 @@
+{
+  "last_updated": "2026-10-21",
+  "note": "Manually curated offers. Sources: bank websites, r/CreditCardsIndia, CardAdvisor. Refresh regularly before using in-app.",
+  "offers": [
+    {
+      "id": "amzn_hdfc_oct26",
+      "title": "Amazon Pay — HDFC Bank 10% off",
+      "short": "10% instant discount on Amazon Pay HDFC card; max ₹500 per order",
+      "platform": "Amazon",
+      "platform_emoji": "🛍️",
+      "card_ids": ["hdfc_amazon_pay"],
+      "banks": ["HDFC Bank"],
+      "all_cards_of_bank": false,
+      "type": "percentage",
+      "value": 10,
+      "max_discount": 500,
+      "min_spend": 1500,
+      "valid_from": "2026-10-01",
+      "valid_till": "2026-10-31",
+      "source": "Amazon Offers page",
+      "source_url": "https://www.amazon.in/b?node=19060705031"
+    },
+    {
+      "id": "swiggy_axis_oct26",
+      "title": "Swiggy — Axis Bank 40% off (up to ₹120)",
+      "short": "40% off first two Swiggy orders this week; min ₹300 order",
+      "platform": "Swiggy",
+      "platform_emoji": "🍔",
+      "card_ids": [],
+      "banks": ["Axis Bank"],
+      "all_cards_of_bank": true,
+      "type": "percentage",
+      "value": 40,
+      "max_discount": 120,
+      "min_spend": 300,
+      "valid_from": "2026-10-18",
+      "valid_till": "2026-10-25",
+      "source": "Swiggy app banner",
+      "source_url": "https://www.swiggy.com"
+    },
+    {
+      "id": "cred_sbi_cashback_oct26",
+      "title": "CRED — SBI Cashback Card ₹200 flat off",
+      "short": "₹200 instant CRED coin cashback on bill payment via CRED; min bill ₹5,000",
+      "platform": "CRED",
+      "platform_emoji": "💎",
+      "card_ids": ["sbi_cashback"],
+      "banks": ["State Bank of India"],
+      "all_cards_of_bank": false,
+      "type": "flat",
+      "value": 200,
+      "min_spend": 5000,
+      "valid_from": "2026-10-15",
+      "valid_till": "2026-10-31",
+      "source": "CRED app",
+      "source_url": "https://cred.club"
+    }
+  ]
+}

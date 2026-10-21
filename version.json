@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
-  "tag": "v1.5.1",
-  "name": "v1.5.1 — 109 cards: CRED, PhonePe, Fibe & Slice added",
-  "notes": "6 new fintech/payment-app credit cards: Fibe Axis (LTF), slice UPI CC (LTF), CRED IndusInd RuPay (₹499/yr), PhonePe HDFC Ultimo (₹999), PhonePe SBI SELECT BLACK (₹1,499), PhonePe SBI PURPLE (₹499). All RuPay UPI-enabled. Total: 109 cards.",
-  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.5.1/SwipeRight-v1.5.1-mac.dmg",
-  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.5.1/SwipeRight-v1.5.1-android.apk"
+  "version": "1.6.0",
+  "tag": "v1.6.0",
+  "name": "v1.6.0 — Pro Features, Collapsible Sections, 5 New Cards",
+  "notes": "SwipeRight Pro launched (free now, paywall later): live card offers + bill payment comparison. Collapsible sections in My Cards & Library. Charges (forex markup, fuel waiver, cash advance) in card detail. 5 new cards (Samsung Axis Signature, SBI Cashback, SBI BPCL Octane, Tata Neu Infinity HDFC, Tata Neu Plus HDFC). 114 cards total.",
+  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.6.0/SwipeRight-v1.6.0-mac.dmg",
+  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.6.0/SwipeRight-v1.6.0-android.apk"
 }
