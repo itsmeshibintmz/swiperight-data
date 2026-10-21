@@ -1,7 +1,7 @@
 {
   "version": "1.8.1",
   "notes": "Fixes macOS in-app updater download (CDN redirect now followed correctly).",
-  "mac_url": "https://github.com/itsmeshibintmz/swiperight/releases/download/v1.8.1/SwipeRight-v1.8.1-mac.dmg",
-  "android_url": "https://github.com/itsmeshibintmz/swiperight/releases/download/v1.8.1/SwipeRight-v1.8.1-android.apk",
-  "ios_url": "https://github.com/itsmeshibintmz/swiperight/releases/download/v1.8.1/SwipeRight-v1.8.1-ios.ipa"
+  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.8.1/SwipeRight-v1.8.1-mac.dmg",
+  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.8.1/SwipeRight-v1.8.1-android.apk",
+  "ios_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.8.1/SwipeRight-v1.8.1-ios.ipa"
 }
