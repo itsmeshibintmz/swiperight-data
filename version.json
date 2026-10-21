@@ -1,9 +1,7 @@
 {
-  "version": "1.8.0",
-  "tag": "v1.8.0",
-  "name": "v1.8.0 — Library tabs: Cards | Offers | Info",
-  "notes": "Library screen now has 3 inner tabs: Cards (best by spend + full grid), Offers ⭐ Pro, and Info (memberships + discontinued). Tab bar stays pinned while scrolling.",
-  "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.8.0/SwipeRight-v1.8.0-mac.dmg",
-  "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.8.0/SwipeRight-v1.8.0-android.apk",
-  "ios_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.8.0/SwipeRight-v1.8.0-ios.ipa"
+  "version": "1.8.1",
+  "notes": "Fixes macOS in-app updater download (CDN redirect now followed correctly).",
+  "mac_url": "https://github.com/itsmeshibintmz/swiperight/releases/download/v1.8.1/SwipeRight-v1.8.1-mac.dmg",
+  "android_url": "https://github.com/itsmeshibintmz/swiperight/releases/download/v1.8.1/SwipeRight-v1.8.1-android.apk",
+  "ios_url": "https://github.com/itsmeshibintmz/swiperight/releases/download/v1.8.1/SwipeRight-v1.8.1-ios.ipa"
 }
