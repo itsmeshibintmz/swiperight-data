@@ -1,6 +1,6 @@
 {
   "version": "1.8.2",
-  "notes": "Rebrand: all LeagueFlyer references replaced with shibintmz. Bundle IDs updated to com.shibintmz.swiperight.",
+  "notes": "Bug fixes and internal improvements.",
   "mac_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.8.2/SwipeRight-v1.8.2-mac.dmg",
   "android_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.8.2/SwipeRight-v1.8.2-android.apk",
   "ios_url": "https://github.com/itsmeshibintmz/swiperight-data/releases/download/v1.8.2/SwipeRight-v1.8.2-ios.ipa"
